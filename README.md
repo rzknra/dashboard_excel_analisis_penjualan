@@ -1,5 +1,5 @@
 # Dashboard Analisis Penjualan di Excel
-Dashboard Excel ini dirancang untuk menganalisis performa penjualan dengan fokus pada metrik utama seperti total penjualan, total profit, dan jumlah produk terjual. Berbagai jenis visualisasi, seperti diagram batang bertumpuk, treemap, dan grafik donat, digunakan untuk menyajikan data dengan cara yang interaktif dan mudah dipahami. Desain dashboard ini bertujuan memberikan wawasan yang jelas mengenai tren penjualan, kategori terlaris, serta pola pembayaran pelanggan.
+Dashboard Excel ini dirancang untuk menganalisis performa penjualan dengan fokus pada metrik utama seperti total penjualan, profit, dan jumlah produk terjual. Tujuan utamanya adalah untuk memberikan wawasan yang mudah dipahami yang dapat membantu bisnis dalam mengevaluasi dan memantau performa penjualan. Berbagai visualisasi, termasuk diagram batang bertumpuk, treemap, dan grafik donat, digunakan untuk memvisualisasikan data secara interaktif, memudahkan identifikasi tren, pola, serta hubungan antar kategori dan periode penjualan.
 
 ## Tanggung Jawab:
 - Membuat tabel baru menggunakan VLOOKUP untuk menggabungkan dan menyusun data dari berbagai sumber, sehingga informasi dapat diintegrasikan dengan mudah.
